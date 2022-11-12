@@ -84,3 +84,4 @@ export_presets.cfg
 data_*/
 
 .DS_Store
+.idea/
